@@ -1,2 +1,2 @@
 # ToDo-React-Vite-App
-Created a To-Do List React-Vite app, utilizing React hooks and props for CRUD operations. 
+Followed Code Stoi's YouTube Series and Created a To-Do List React-Vite app, utilizing React hooks and props for CRUD operations. 
